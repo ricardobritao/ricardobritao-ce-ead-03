@@ -1,0 +1,23 @@
+﻿body {  
+  font-family : Arial;
+}
+
+.tabuada {  
+  margin : 10px;
+  float  : left;
+}
+
+table {  
+  border-collapse : collapse;
+  border          : 1px solid black;
+}
+
+th {
+  color            : #FFFFEE;  
+  background-color : #CE4213;  
+  width            : 70px;  
+}
+
+td {    
+  text-indent : 2px;
+}
